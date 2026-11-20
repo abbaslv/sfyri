@@ -396,10 +396,10 @@ void main_ui_loop() {
         GuiPanel((Rectangle){24, 24, 852, 512}, NULL);
         GuiLabel((Rectangle){48, 44, 160, 24}, "sfyri");
         if (GuiButton((Rectangle){488, 40, 92, 28}, GuiIconText(ICON_LINK_NET, "Website"))) {
-            OpenURL("https://lvtik.github.io");
+            OpenURL("https://abbaslv.github.io");
         }
         if (GuiButton((Rectangle){592, 40, 92, 28}, GuiIconText(ICON_LINK, "GitHub"))) {
-            OpenURL("https://github.com/lvtik/sfyri");
+            OpenURL("https://github.com/abbaslv/sfyri");
         }
         bool next_dark_mode = dark_mode;
         GuiToggle((Rectangle){696, 40, 156, 28}, dark_mode ? "Dark mode" : "Light mode", &next_dark_mode);

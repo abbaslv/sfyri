@@ -42,7 +42,7 @@ The main window has:
 
 ## Installing
 
-Grab the binary for your platform from the [releases page](https://github.com/lvtik/sfyri/releases).
+Grab the binary for your platform from the [releases page](https://github.com/abbaslv/sfyri/releases).
 
 ```sh
 tar -xzf sfyri-vX.X.X-<platform>-<arch>.tar.gz
@@ -152,8 +152,8 @@ If you're looking through the code, here's how it's organized:
 
 ## Links
 
-- Website: <https://lvtik.github.io>
-- Repository: <https://github.com/lvtik/sfyri>
+- Website: <https://abbaslv.github.io>
+- Repository: <https://github.com/abbaslv/sfyri>
 
 ## License
 
